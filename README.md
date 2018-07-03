@@ -8,7 +8,7 @@
 [download-image]: https://img.shields.io/npm/dm/react-touchscreen-keyboards.svg?style=flat-square
 [download-url]: https://npmjs.org/package/react-touchscreen-keyboards
 
-![image](https://raw.githubusercontent.com/neilpipi1985/react-touchscreen-keyboards/blob/master/demo.gif)
+![image](https://github.com/neilpipi1985/react-touchscreen-keyboards/blob/master/demo.gif?raw=true)
 
 ## Quick start
 
