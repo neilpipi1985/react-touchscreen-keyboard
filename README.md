@@ -1,28 +1,28 @@
-# react-touchscreen-keyboard
+# react-touchscreen-keyboards
 
 [![NPM version][npm-image]][npm-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/react-touchscreen-keyboard.svg?style=flat-square
-[npm-url]: https://www.npmjs.com/package/react-touchscreen-keyboard
-[download-image]: https://img.shields.io/npm/dm/react-touchscreen-keyboard.svg?style=flat-square
-[download-url]: https://npmjs.org/package/react-touchscreen-keyboard
+[npm-image]: https://img.shields.io/npm/v/react-touchscreen-keyboards.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/react-touchscreen-keyboards
+[download-image]: https://img.shields.io/npm/dm/react-touchscreen-keyboards.svg?style=flat-square
+[download-url]: https://npmjs.org/package/react-touchscreen-keyboards
 
-![image](https://raw.githubusercontent.com/neilpipi1985/react-touchscreen-keyboard/blob/master/demo.gif)
+![image](https://raw.githubusercontent.com/neilpipi1985/react-touchscreen-keyboards/blob/master/demo.gif)
 
 ## Quick start
 
 **Installing via npm**
 
 ```
-$ npm install --save-dev react-touchscreen-keyboard
+$ npm install --save-dev react-touchscreen-keyboards
 ```
 
 ### Example
 
 ```js
 import React, { Component } from 'react';
-import Keyboard from 'react-touchscreen-keyboard';
+import Keyboard from 'react-touchscreen-keyboards';
 
 class MyKeyboard extends Component {
   onReturnValue = (value = '') => {
@@ -106,14 +106,14 @@ export default MyKeyboard;
   </tbody>
   </table>
 
-See the [examples](https://github.com/neilpipi1985/react-touchscreen-keyboard/blob/master/example/render/app.js) for a more complete sample.
+See the [examples](https://github.com/neilpipi1985/react-touchscreen-keyboards/blob/master/example/render/app.js) for a more complete sample.
 
 
 ### Running Local Example
 
 ```   
-$ git clone https://github.com/neilpipi1985/react-touchscreen-keyboard
-$ cd ./react-touchscreen-keyboard
+$ git clone https://github.com/neilpipi1985/react-touchscreen-keyboards
+$ cd ./react-touchscreen-keyboards
 $ npm install
 $ npm run test
 ```

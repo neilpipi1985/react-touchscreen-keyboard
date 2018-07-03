@@ -1,5 +1,5 @@
 {
-  "name": "react-touchscreen-keyboard",
+  "name": "react-touchscreen-keyboards",
   "version": "1.0.0",
   "description": "React Keyboard Component",
   "main": "lib/index.js",
@@ -19,9 +19,9 @@
   "author": "neilpipi1985 <neilpipi1985@gmail.com> (https://github.com/neilpipi1985)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/neilpipi1985/react-touchscreen-keyboard/issues"
+    "url": "https://github.com/neilpipi1985/react-touchscreen-keyboards/issues"
   },
-  "homepage": "https://github.com/neilpipi1985/react-touchscreen-keyboard",
+  "homepage": "https://github.com/neilpipi1985/react-touchscreen-keyboards",
   "devDependencies": {
     "@material-ui/core": "^1.2.2",
     "babel-cli": "^6.26.0",
